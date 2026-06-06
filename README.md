@@ -91,5 +91,4 @@ academic-docx-format/
 
 ## 许可证
 
-当前仓库尚未附带开源许可证。在作者添加许可证前，默认保留所有权利。
-
+本项目采用 [MIT License](LICENSE) 开源。
