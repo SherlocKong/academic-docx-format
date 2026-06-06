@@ -2,6 +2,8 @@
 
 一个面向学术论文、毕业论文、期刊投稿稿件和补充材料的 DOCX 格式审查与安全修改 Agent Skill。
 
+![Academic DOCX Format 工作流程](assets/academic-docx-format-social-preview-v1.png)
+
 它不替代通用 `docx` skill，也不负责从零生成普通 Word 文档。它负责在调用 DOCX 工具前后建立一套稳定、可审计、防误伤的工作流：
 
 > 环境预检 → 项目接手 → 只读勘测 → 用户审批 → 修改计划 → 时间戳副本 → 定点修改 → 三层回归验证 → 项目记录更新
