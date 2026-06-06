@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic DOCX Format"
+  short_description: "Audit and safely repair academic DOCX formatting"
+  default_prompt: "Use $academic-docx-format to audit this academic DOCX and prepare a safe targeted formatting plan."
